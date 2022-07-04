@@ -20,4 +20,6 @@ defaults:
     type: pages
   values:
     layout: page
+url: honestrelating.siteleaf.net
+description: Honest Relating
 permalink: pretty
